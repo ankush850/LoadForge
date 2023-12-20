@@ -1,0 +1,24 @@
+# Node
+/node_modules/
+
+# Build output
+/dist/
+
+# Vite
+.vite/
+
+# Environment
+.env
+.env.*
+
+# Caches
+.eslintcache
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
