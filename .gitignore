@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/data/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build & Vite
+dist/
+frontend/dist/
+.vite/
+frontend/.vite/
+
+# Logs & Caches
+*.log
+.eslintcache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
