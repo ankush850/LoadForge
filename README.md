@@ -1,4 +1,4 @@
-# 🚀 LoadForge — Website Stress Testing & Analyzer Tool
+# 🚀 LoadForge
 
 LoadForge is a **full-stack performance testing platform** designed to simulate controlled load on websites and APIs while providing **real-time analytics and historical insights**.
 
